@@ -1,0 +1,32 @@
+body
+{
+    background-size: cover;
+}
+
+#heading
+{
+    width: 100%;
+    font-size: 23px;
+    background-color: rgba(251, 168, 180, 0);
+    color:ghostwhite;
+    border-color: black;
+    border-width: 5px;
+} 
+
+#p
+{
+    font-size: 18px;
+    color: black;
+}
+
+#start,#status,#status_found
+{
+    background-color: rgba(251, 168, 180, 0);
+    border-width: 1px;
+    color: ghostwhite;
+}
+
+canvas
+{
+    border: 5px 5px 5px dotted rgba(251, 168, 180, 0);
+}
